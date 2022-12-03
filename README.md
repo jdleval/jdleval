@@ -8,7 +8,7 @@
       a web-based project to provide resources for those people coming out of incarceration.
       the website will: aid in establishing housing, education, recovery, and employment.
 
-- 📫:incoming_envelope: How to reach me jeremydleval.com
+- 📫:incoming_envelope: How to reach me ...working on my portfolio
 
 <!---
 jdleval/jdleval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
